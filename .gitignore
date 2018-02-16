@@ -1,0 +1,6 @@
+.env
+config/development.env
+config/qa.env
+config/production.env
+.lambda
+node_modules
